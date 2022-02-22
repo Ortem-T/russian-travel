@@ -1,0 +1,11 @@
+.cover__text {
+  position: absolute;
+  z-index: 2;
+  max-width: 560px;
+}
+
+@media (max-width: 768px) {
+  .cover__text {
+      max-width: 288px;
+  }
+}

@@ -1,0 +1,11 @@
+.cover {
+  max-width: 1184px;
+  padding: 0 48px;
+  position: relative;
+}
+
+@media (max-width: 1024px) {
+  .cover {
+      padding: 0;
+  }
+}

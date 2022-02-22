@@ -1,0 +1,13 @@
+.cover__link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.cover__link:hover .cover__overlay {
+  transition: opacity 1s linear 0.1s;
+}
+
+.cover__link:hover .cover__overlay {
+  opacity: 0.8;
+}

@@ -1,0 +1,9 @@
+.place__websire {
+  align-self: end;
+}
+
+@media (max-width: 320px) {
+  .place__websire {
+      padding: 0 16px;
+  }
+}

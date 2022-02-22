@@ -1,0 +1,9 @@
+@media (max-width: 540px) {
+  .footer__item {
+    margin-bottom: 32px;
+  }
+
+  .footer__item:last-child {
+    margin-bottom: 48px;
+  }
+}
