@@ -8,6 +8,7 @@
   font-style: normal;
   text-transform: uppercase;
   letter-spacing: 0.15em;
+  margin-top: 8px;
 }
 
 @media all and (max-width: 768px) {

@@ -1,15 +1,15 @@
-.page__margin-bottom {
+.content__section {
   margin-bottom: 92px;
 }
 
 @media (max-width: 768px) {
-    .page__margin-bottom {
+    .content__section {
         margin-bottom: 88px;
     }
 }
 
 @media (max-width: 540px) {
-  .page__margin-bottom {
+  .content__section {
       margin-bottom: 64px;
   }
 }
