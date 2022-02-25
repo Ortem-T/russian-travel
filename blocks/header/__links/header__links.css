@@ -3,5 +3,12 @@
   margin: 0;
   padding: 0;
   list-style: none;
-  align-self: end;
+  align-self: flex-end;
+  padding-bottom: 6px;
+}
+
+@media (max-width: 540px) {
+  .header__links {
+    padding-bottom: 8px;
+  }
 }
